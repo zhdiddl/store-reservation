@@ -1,0 +1,6 @@
+rootProject.name = 'Store'
+include 'user'
+include 'domain'
+include 'reservation'
+include 'review'
+
